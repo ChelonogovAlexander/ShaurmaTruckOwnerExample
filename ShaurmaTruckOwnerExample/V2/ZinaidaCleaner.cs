@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication1.V2
+﻿namespace ShaurmaTruckOwnerExample.V2
 {
     /// <summary> Уборщица Зинаида </summary>
     public class ZinaidaCleaner

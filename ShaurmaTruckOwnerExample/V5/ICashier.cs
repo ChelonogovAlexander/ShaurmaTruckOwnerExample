@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication1.V5
+﻿namespace ShaurmaTruckOwnerExample.V5
 {
     /// <summary> Кассир </summary>
     public interface ICashier

@@ -1,23 +1,23 @@
-п»їnamespace ConsoleApplication1.V4
+namespace ShaurmaTruckOwnerExample.V4
 {
-    /// <summary> Р’РѕРґРёС‚РµР»СЊ Р’Р°СЃРёР»РёР№ </summary>
+    /// <summary> Водитель Василий </summary>
     public class VasiliyDriver
     {
-        /// <summary> Р”РѕСЃС‚Р°С‚СЊ РїСЂРѕРґСѓРєС‚С‹ </summary>
+        /// <summary> Достать продукты </summary>
         public void GetProducts()
         {
-            System.Console.WriteLine("Р—Р°РїСЂР°РІРёС‚СЊ РјР°С€РёРЅСѓ");
-            System.Console.WriteLine("РџРѕРµС…Р°С‚СЊ РІ РїСЏС‚РµСЂРѕС‡РєСѓ");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ Р»Р°РІР°С€РµР№");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ РїРѕРјРёРґРѕСЂС‹");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ РєСѓСЂРёС†Сѓ");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ РјР°Р№РѕРЅРµР·");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ СЃРјРµС‚Р°РЅСѓ");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ СЃРїРµС†РёРё");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ РјР°СЃР»Рѕ РїРѕРґСЃРѕР»РЅРµС‡РЅРѕРµ");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ РєРѕС„Рµ, С‡Р°Р№");
-            System.Console.WriteLine("РљСѓРїРёС‚СЊ РїРёРІРѕ Р–РёРіСѓР»Рё РїРѕ Р°РєС†РёРё");
-            System.Console.WriteLine("Р’С‹РїРёС‚СЊ РїРёРІР°");
+            System.Console.WriteLine("Заправить машину");
+            System.Console.WriteLine("Поехать в пятерочку");
+            System.Console.WriteLine("Купить лавашей");
+            System.Console.WriteLine("Купить помидоры");
+            System.Console.WriteLine("Купить курицу");
+            System.Console.WriteLine("Купить майонез");
+            System.Console.WriteLine("Купить сметану");
+            System.Console.WriteLine("Купить специи");
+            System.Console.WriteLine("Купить масло подсолнечное");
+            System.Console.WriteLine("Купить кофе, чай");
+            System.Console.WriteLine("Купить пиво Жигули по акции");
+            System.Console.WriteLine("Выпить пива");
         }
 
     }

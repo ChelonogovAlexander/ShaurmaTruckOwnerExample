@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication1.V3
+﻿namespace ShaurmaTruckOwnerExample.V3
 {
     /// <summary> Повар Ашот </summary>
     public class AshotCooker

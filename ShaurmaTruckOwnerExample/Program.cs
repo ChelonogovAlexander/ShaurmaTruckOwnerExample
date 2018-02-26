@@ -1,8 +1,7 @@
 ﻿using System;
-using System.IO;
-using ConsoleApplication1.V5;
+using ShaurmaTruckOwnerExample.V5;
 
-namespace ConsoleApplication1
+namespace ShaurmaTruckOwnerExample
 {
     public class Program
     {

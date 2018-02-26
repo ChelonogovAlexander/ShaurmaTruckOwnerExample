@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication1.V5
+﻿namespace ShaurmaTruckOwnerExample.V5
 {
     /// <summary> Повар </summary>
     public interface ICooker

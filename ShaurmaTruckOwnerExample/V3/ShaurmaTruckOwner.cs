@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication1.V3
+﻿namespace ShaurmaTruckOwnerExample.V3
 {
     /// <summary> Владелец ларька с шаурмой </summary>
     public class ShaurmaTruckOwner
